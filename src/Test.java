@@ -11,11 +11,8 @@ public class Test {
 		// dto.setImage("image");
 		dao.addActivityImages(dto);
 
-<<<<<<< HEAD
+
 		System.out.println("s1");
-=======
-		System.out.println("sudhanshu");
->>>>>>> parent of 3cc1dcf... sud
 
 	}
 
