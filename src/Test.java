@@ -12,6 +12,7 @@ public class Test {
 		dao.addActivityImages(dto);
 
 		System.out.println("sudh");
+		//Lokesh Changed
 
 	}
 
