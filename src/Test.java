@@ -10,7 +10,7 @@ public class Test {
 		dto.setDescription("description");
 		// dto.setImage("image");
 		dao.addActivityImages(dto);
-		System.out.println("ssssss");
+		System.out.println("lok");
 	}
 
 }
