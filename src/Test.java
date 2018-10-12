@@ -11,7 +11,7 @@ public class Test {
 		// dto.setImage("image");
 		dao.addActivityImages(dto);
 
-		System.out.println("sudh");
+		System.out.println("s2");
 
 	}
 
