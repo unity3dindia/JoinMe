@@ -10,7 +10,11 @@ public class Test {
 		dto.setDescription("description");
 		// dto.setImage("image");
 		dao.addActivityImages(dto);
+<<<<<<< HEAD
 `
+=======
+		System.out.println("lok");
+>>>>>>> eb25263ed2ce049452bced9aaf55a2638f3e9515
 	}
 
 }
