@@ -12,6 +12,7 @@ public class Test {
 		dao.addActivityImages(dto);
 		System.out.println("ccccc");
 		System.out.println("lok");
+		System.out.println("jit");
 	}
 
 }
